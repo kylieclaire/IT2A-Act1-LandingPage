@@ -1,8 +1,8 @@
-<!doctype html>
+
 
   <head>
 
-    <meta charset="utf-8">
+    
     
     
     <title>Oh so sweet | Order your favorite sweet treats at Oh so sweet shop</title>
