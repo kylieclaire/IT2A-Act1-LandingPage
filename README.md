@@ -1,10 +1,10 @@
 <!doctype html>
-<html lang="en">
+
   <head>
 
     <meta charset="utf-8">
     
-    <meta name="viewport" content="width=device-width, initial-scale=1">
+    
     <title>Oh so sweet | Order your favorite sweet treats at Oh so sweet shop</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet">
     
@@ -63,14 +63,14 @@
       <div class="carousel-item active">
         <img src="img/pexels-life-of-pix-134575.jpg" class="d-block w-100" alt="d1" >
         <div class="carousel-caption d-none d-md-block">
-          <h5 font size="250vw" style="color:black;" >NEW SWEET TREATS</h5>
+          <h5 font size="250" style="color:black;" >NEW SWEET TREATS</h5>
           <p style="color:black;" >Get yourselves sweet and delicious cupcakes! Check out other sweet treats in our shop.</p>
         </div>
       </div>
       <div class="carousel-item">
         <img src="img/pexels-blaque-x-1023949.jpg" class="d-block w-100" alt="d2">
         <div class="carousel-caption d-none d-md-block">
-          <h5 sfont size="250vw" style="color:black;" >Enjoy your treats with our beverages.</h5>
+          <h5 sfont size="250" style="color:black;" >Enjoy your treats with our beverages.</h5>
           
           <p style="color:black;" >Iced coffee, milktea, frappes, hot choco, black coffee, milkshake--name it because we have that in our sweet house.</p>
         </div>
@@ -78,7 +78,7 @@
       <div class="carousel-item">
         <img src="img/pexels-karolina-grabowska-4040691.jpg" class="d-block w-100" alt="d3 ">
         <div class="carousel-caption d-none d-md-block">
-          <h5 font size="250vw" style="color:black;">Aesthetic and instagrammable sweet shop</h5>
+          <h5 font size="250" style="color:black;">Aesthetic and instagrammable sweet shop</h5>
           <p style="color:black;" >Customers could visit our shop located at Muntinlupa. Visit now with your friends and loved ones!</p>
         </div>
       </div>
@@ -86,7 +86,7 @@
       <div class="carousel-item">
         <img src="img/pexels-valeria-boltneva-12659958.jpg" class="d-block w-100" alt="d4" > 
         <div class="carousel-caption d-none d-md-block">
-          <h5 font size="250vw" style="color:black;"> SHARING IS CARING!</h5>
+          <h5 font size="250" style="color:black;"> SHARING IS CARING!</h5>
           <p style="color:black;" >We are open for feedback and more suggestions from our dearest customers to further improve our oh so sweet shop.</p>
         </div>
       </div>
